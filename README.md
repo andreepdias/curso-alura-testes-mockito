@@ -1,4 +1,4 @@
-# curso-alura-testes-mockito
+# Curso Alura Testes Mockito
 
 Curso desenvolvido em um curso na Alura sobre Mocks em Java com Mockito.
 
